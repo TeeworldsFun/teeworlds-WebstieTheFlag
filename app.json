@@ -1,0 +1,6 @@
+{
+	"name": "Teeworlds Joiner",
+	"description": "Join every Teeworlds server (that doesnt ban vpn) and send the messages you specify.",
+	"repository": "https://github.com/swarfey/teeworlds-joiner",
+	"keywords": ["node", "express", "static"]
+  }
